@@ -1,0 +1,39 @@
+Level Order Traversal 
+Description
+
+Given a binary tree, return the level ordertraversal ofits nodes' values. (ie, from left to right, level by level).
+
+You have to complete the function below.You'll be given the pointer to the root of the binary tree.There's no need to take any input. Return an array that has all the level order traversal in separate arrays.
+
+
+Input
+This is a function complete problem. There's no need to take any input.
+
+The input given below is for your understanding-
+
+The first line contains the number of nodes in the tree (t)
+
+Next t lines contain a node A[i]
+
+t <= 100
+
+A[i] <= 1000
+
+
+Output
+Complete the function
+
+
+Sample Input 1 
+
+5
+5
+6
+4
+7
+2
+Sample Output 1
+
+5
+6 4
+7 2
