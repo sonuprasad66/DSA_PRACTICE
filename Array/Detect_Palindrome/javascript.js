@@ -4,6 +4,7 @@
 // Sample Output 1
 // Yes
 
+
 let num = 1221;
 
 detectPalindrome(num);
